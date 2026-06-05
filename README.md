@@ -1,4 +1,4 @@
-# Kick Level Badge Hider
+# Kick Level Badge Hider [PERVER NOLDUUUUUUUUU]
 
 Kick sohbetindeki **Level rozetlerini** ve kapladıkları boşluğu kaldıran basit bir Chrome Extension.
 
